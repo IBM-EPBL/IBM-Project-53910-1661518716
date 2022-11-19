@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: large;
+    line-height: 30px;
+}
+
+#home {
+    background-image: url(food.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    color: white;
+}
+
+#predict {
+    background-image: url(food.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    color: white;
+}
+
+form {
+    text-align: center;
+}
+
+#nav {
+    overflow: hidden;
+    background-color: rgb(17, 0, 0);
+}
+
+#nav a {
+    float: right;
+    color: rgb(250, 248, 248);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#nav a:hover {
+    background-color: rgb(250, 249, 246);
+    color: rgb(241, 28, 28);
+}
+
+#nav a:active {
+    background-color: rgb(132, 244, 248);
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
